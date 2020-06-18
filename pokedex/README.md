@@ -1,5 +1,6 @@
 ## React App
 
+
 #### **How to run this**
 
 -Open your terminal
@@ -13,6 +14,8 @@
 -npm start
 
 -You can access here http://localhost:3000
+
+<hr/>
 
 ### Requirements
 
