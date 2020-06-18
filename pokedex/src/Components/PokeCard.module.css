@@ -1,0 +1,32 @@
+.PokeCard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px;
+    width: 20%;
+    display: inline-block;
+    margin: 30px 30px;
+    justify-content: center;
+
+}
+
+/* On mouse-over, add a deeper shadow */
+.PokeCard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+.PokeCard img {
+    border-radius: 5px 5px 0 0;
+    width: 100%;
+}
+.PokeCard h4 {
+   color: teal;
+    padding: 10px 16px;
+}
+
+/* Add some padding inside the card container */
+.Container {
+    padding: 2px 16px;
+}
+
