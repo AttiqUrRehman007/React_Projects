@@ -1,4 +1,4 @@
-###React App
+## React App
 
 #### **How to run this**
 
@@ -14,7 +14,7 @@
 
 -You can access here http://localhost:3000
 
-###Requirements
+### Requirements
 
 -node v13.13.0
 
