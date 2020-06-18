@@ -3,4 +3,4 @@
 - git clone https://github.com/AttiqUrRehman007/Projects
 - cd pokedex
 - `npm install`
-- `npm run`
+- `npm start`
