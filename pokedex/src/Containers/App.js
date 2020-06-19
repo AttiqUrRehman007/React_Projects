@@ -1,19 +1,12 @@
 import React,{ Fragment } from 'react';
 import classes from './App.module.css';
-import PokeCard from "../Components/PokeCard";
+import Pokedex from "./Pokedex";
 
 const app = ()=> {
   return (
       <Fragment>
         <h1 className={classes.App}>Pokedex</h1>
-        <PokeCard />
-        <PokeCard />
-        <PokeCard />
-        <PokeCard />
-        <PokeCard />
-        <PokeCard />
-        <PokeCard />
-        <PokeCard />
+        <Pokedex />
       </Fragment>
 
   );

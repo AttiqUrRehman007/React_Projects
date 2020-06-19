@@ -5,9 +5,9 @@
     border-radius: 5px;
     width: 20%;
     display: inline-block;
-    margin: 30px 30px;
-    justify-content: center;
-
+    margin: 10px 30px;
+    background-color: #eceff1;
+    height: 265px;
 }
 
 /* On mouse-over, add a deeper shadow */
@@ -18,15 +18,27 @@
 /* Add rounded corners to the top left and the top right corner of the image */
 .PokeCard img {
     border-radius: 5px 5px 0 0;
-    width: 100%;
+    height: 130px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
-.PokeCard h4 {
+.PokeCard h3 {
    color: teal;
     padding: 10px 16px;
+    text-align: center;
+    font-weight: bold;
 }
 
 /* Add some padding inside the card container */
 .Container {
     padding: 2px 16px;
 }
+
+.Container p {
+    margin: 0;
+    text-align: center;
+}
+
 
