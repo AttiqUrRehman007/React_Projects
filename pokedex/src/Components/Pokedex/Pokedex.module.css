@@ -1,0 +1,16 @@
+.Pokedex {
+    text-align: center;
+    color: darkgrey;
+    font-weight: bold;
+}
+
+
+.Winner {
+    color: teal;
+    font-weight: bold;
+}
+
+.Loser {
+    color: red;
+    font-weight: bold;
+}
